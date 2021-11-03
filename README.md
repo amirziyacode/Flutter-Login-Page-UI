@@ -20,6 +20,10 @@ android ✔️
 
 Can be used on all your phones✔️
 
+## Preview
+![20211103_190824-_online-video-cutter com_](https://user-images.githubusercontent.com/75315732/140098791-ccf60631-807d-486a-92eb-c1896d652217.gif)
+
+
 ## Development Setup
 Clone the repository and run the following commands:
 ```
