@@ -1,3 +1,7 @@
+![Login](https://cdni.iconscout.com/illustration/premium/thumb/login-denied-4560624-3784190.png)
+[![GitHub stars](https://img.shields.io/github/stars/iampawan/FlutterExampleApps.svg?style=social&label=Star)](https://github.com/amirziyacode)
+[![GitHub forks](https://img.shields.io/github/forks/iampawan/FlutterExampleApps.svg?style=social&label=Fork)](https://github.com/amirziyacode?tab=repositories)
+
 # Login Page 
 
 A Beautiful login page
@@ -6,7 +10,19 @@ Use in your application
 
 Tank you ☺
 
+## Platform
 
+ios ✔️
+
+android ✔️
+
+
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
 ## Getting Started
 
