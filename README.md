@@ -16,6 +16,9 @@ ios ✔️
 
 android ✔️
 
+# responsive 
+
+Can be used on all your phones✔️
 
 ## Development Setup
 Clone the repository and run the following commands:
